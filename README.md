@@ -121,19 +121,24 @@ plt.show()
 
 ```
 
-Visão Geral Estatística dos Dados Após Codificação:
-            idade         imc      filhos      encargos
-count  203.000000  203.000000  203.000000    203.000000
-mean    41.615764   28.634131    1.891626  26050.641539
-std     13.671179    3.943029    1.424009   5725.636786
-min     18.000000   19.639929    0.000000  15068.846127
-25%     30.000000   26.113907    1.000000  21471.877341
-50%     42.000000   28.504379    2.000000  26142.164418
-75%     54.000000   31.523490    3.000000  30023.612864
-max     64.000000   37.556144    4.000000  39236.77050
+# Visão Geral Estatística dos Dados Após Codificação
+
+|       | idade     | imc        | filhos    | encargos    |
+|-------|-----------|------------|-----------|-------------|
+| count | 203.00000 | 203.000000 | 203.000000| 203.000000  |
+| mean  | 41.615764 | 28.634131  | 1.891626  | 26050.641539|
+| std   | 13.671179 | 3.943029   | 1.424009  | 5725.636786 |
+| min   | 18.000000 | 19.639929  | 0.000000  | 15068.846127|
+| 25%   | 30.000000 | 26.113907  | 1.000000  | 21471.877341|
+| 50%   | 42.000000 | 28.504379  | 2.000000  | 26142.164418|
+| 75%   | 54.000000 | 31.523490  | 3.000000  | 30023.612864|
+| max   | 64.000000 | 37.556144  | 4.000000  | 39236.77050 |
 
 
 ![Dados](images/baixados.png)
+
+
+Correlações Após Codificação:
 ![Correlações Após Codificação:](images/baixados02.png "Correlações Após Codificação:")
 
 
@@ -212,4 +217,15 @@ plt.legend()
 plt.show()
 
 print("\nConclusão: O modelo XGBoost demonstrou ser eficaz para prever os custos médicos com base nas características fornecidas, como mostram os resultados visuais e as métricas de avaliação.")
+
 ```
+
+Treinando o modelo...
+
+Erro Quadrático Médio (MSE): 631271.9526649514
+Coeficiente de Determinação (R^2): 0.9848954026449546 - Quanto mais próximo de 1, melhor.
+
+![Dados](images/baixados03.png)
+![Dados](images/baixados04.png)
+
+Conclusão: O modelo XGBoost demonstrou ser eficaz para prever os custos médicos com base nas características fornecidas, como mostram os resultados visuais e as métricas de avaliação.
