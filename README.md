@@ -3,6 +3,8 @@
 ## Descrição
 Este repositório contém os materiais relacionados ao Tech Challenge 001 da FIAP, realizado pelo Grupo 16. O Tech Challenge engloba os conhecimentos obtidos em todas as disciplinas dessa fase. A atividade, obrigatória e valendo 90% da nota de todas as disciplinas da fase, deve ser desenvolvida em grupo e entregue dentro do prazo estipulado.
 
+[Projeto no github](https://github.com/apokalypsi/fiap-tech-challenge-001-grupo-16)
+
 ## Base de Dados
 A base de dados para este desafio contém informações sobre custos médicos de indivíduos, incluindo as seguintes colunas:
 - `idade`: Idade do beneficiário.
