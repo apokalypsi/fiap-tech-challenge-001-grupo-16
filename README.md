@@ -47,7 +47,7 @@ idade,gênero,imc,filhos,fumante,região,encargos
 - Diego Batista Pereira da Silva - alpha.diegobatista@gmail.com
 - Samuel Kazuo Watanabe - kazuo_w@hotmail.com
 - Jonathan Maximo da Silva - jonathan.desenv@gmail.com
-- Eric Pimentel da Silva - ericpimenteldasilva@gmail.com
+- Michael Juvenal de Oliveira - michael.etec@gmail.com
 - Samuel Rodrigues de Barros Mesquita Neto - samuelr.neto98@gmail.com
 
 ## Link para o projeto no Colab
