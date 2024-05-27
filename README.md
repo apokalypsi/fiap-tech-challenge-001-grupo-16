@@ -5,6 +5,8 @@ Este repositório contém os materiais relacionados ao Tech Challenge 001 da FIA
 
 [Projeto no github](https://github.com/apokalypsi/fiap-tech-challenge-001-grupo-16)
 
+[Video](https://youtu.be/OawJTSuOKj0)
+
 ## Base de Dados
 A base de dados para este desafio contém informações sobre custos médicos de indivíduos, incluindo as seguintes colunas:
 - `idade`: Idade do beneficiário.
